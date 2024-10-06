@@ -1,0 +1,7 @@
+Prestamista: LEONARDO
+Cliente: DYLAN
+Monto Inicial: 5000.0
+Tasa de Interés: 0.05% mensual
+Tiempo: 8 meses
+Interés Simple Calculado: 2000.0
+----------------------------

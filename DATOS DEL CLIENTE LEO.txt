@@ -1,0 +1,7 @@
+Prestamista: DYLAN
+Cliente: LEO
+Monto Inicial: 7000.0
+Tasa de Interés: 0.05 mensual
+Tiempo: 7 meses
+Interés Simple Calculado: 2450.0
+----------------------------
